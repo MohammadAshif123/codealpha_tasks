@@ -1,0 +1,31 @@
+{
+  "best_model": "Logistic Regression",
+  "dataset_rows": 1800,
+  "creditworthy_rate": 0.5,
+  "metrics": [
+    {
+      "Model": "Logistic Regression",
+      "Accuracy": 0.8333333333333334,
+      "Precision": 0.8296703296703297,
+      "Recall": 0.8388888888888889,
+      "F1-Score": 0.8342541436464088,
+      "ROC-AUC": 0.9222839506172841
+    },
+    {
+      "Model": "Random Forest",
+      "Accuracy": 0.8333333333333334,
+      "Precision": 0.8191489361702128,
+      "Recall": 0.8555555555555555,
+      "F1-Score": 0.8369565217391305,
+      "ROC-AUC": 0.9008641975308642
+    },
+    {
+      "Model": "Decision Tree",
+      "Accuracy": 0.7833333333333333,
+      "Precision": 0.7771739130434783,
+      "Recall": 0.7944444444444444,
+      "F1-Score": 0.7857142857142857,
+      "ROC-AUC": 0.8371759259259259
+    }
+  ]
+}

@@ -1,0 +1,8 @@
+                  precision    recall  f1-score   support
+
+Not Creditworthy       0.79      0.77      0.78       180
+    Creditworthy       0.78      0.79      0.79       180
+
+        accuracy                           0.78       360
+       macro avg       0.78      0.78      0.78       360
+    weighted avg       0.78      0.78      0.78       360
